@@ -6,4 +6,4 @@
 
 詳しい使い方や解説は以下の記事をご覧ください。
 
-👉 [Qiitaの記事はこちら]([https://qiita.com/あなたのユーザー名/items/記事ID](https://qiita.com/iwakazusuwa/items/a6cc6f68dfbcc28d05e8))
+👉 [Qiitaの記事はこちら](https://qiita.com/iwakazusuwa/items/a6cc6f68dfbcc28d05e8)
